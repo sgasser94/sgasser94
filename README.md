@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sam, nice to meet you!
+# Hi there 👋 I'm Sam, nice to meet you!
 
 ## I'm a fullstack software engineer located in Seattle, WA.
 
