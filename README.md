@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sam, nice to meet you!
 
-## I'm a fullstack software engineer located in Seattle, WA.
+## I'm a Software Engineer at Microsoft, located in Seattle, WA.
 
 ### Connect with me:
 
@@ -11,7 +11,6 @@
 ### About me:
 
 <ul>
-  <li> Currently seeking: Full-time SWE role in Seattle or SF Bay Area
   <li> Currently building: Beat the Bookie - a sports betting tracker
   <li> University of Washington alumnus
   <li> Sports fanatic
